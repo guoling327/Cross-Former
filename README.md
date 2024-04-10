@@ -1,2 +1,2 @@
 # Cross-Former
-## I will publish the model code after my article is accepted.
+## Codes and models will be available after my article is accepted.
